@@ -62,6 +62,8 @@ class CustomDrawer extends GetView<DrawerController1> {
           _DrawerButton(
               onPressed: () => controller.github(), icon: CommonAssets.github, label: 'My GitHub'),
           _DrawerButton(
+              onPressed: () => controller.sourceCode(), icon: CommonAssets.github, label: 'Source-Code'),
+          _DrawerButton(
     onPressed:  () => controller.email(), icon: CommonAssets.email, label: 'My email'),
           _DrawerButton(
               onPressed:() => controller.linkedIn(),icon: CommonAssets.contact, label: 'My linkedIn'),

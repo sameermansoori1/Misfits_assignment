@@ -257,7 +257,7 @@ class ClubInfoJoined extends StatelessWidget {
             onItemSelected: controller.changeTabIndex,
             items: <BottomNavyBarItem>[
               BottomNavyBarItem(
-                  title: const Text('Meetups'),
+                  title: const Text('Meet-ups'),
                   activeColor: AppThemes.primary.withOpacity(0.2),
                   inactiveColor: AppThemes.borderColor,
                   textAlign: TextAlign.center,

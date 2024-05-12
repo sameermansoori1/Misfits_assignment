@@ -23,7 +23,9 @@ class DrawerController1 extends GetxController {
   void github() {
     _launch('https://github.com/sameermansoori1');
   }
-
+  void sourceCode() {
+    _launch('https://github.com/sameermansoori1/Misfits_assignment');
+  }
   void email() {
     final Uri emailLaunchUri = Uri(
       scheme: 'mailto',

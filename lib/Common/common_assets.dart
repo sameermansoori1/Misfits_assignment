@@ -18,6 +18,7 @@ class CommonAssets {
   static const String github = 'assets/common/github.svg';
   static const String email = 'assets/common/email.svg';
   static const String contact = 'assets/common/contact.svg';
+  static const String source = 'assets/common/source.png';
 
 
 
