@@ -1,16 +1,29 @@
-# misfits_assignment
 
-A new Flutter project.
+# Misfits_Assignment
 
-## Getting Started
+Developed an application using the Flutter. Focus on creating an intuitive user interface and a smooth user experience using Getx for State Management.
 
-This project is a starting point for a Flutter application.
+## Screenshots/Gif
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Smooth Ui (Getx)
+- Getx Navigation
+- Drawer
+- Custom Bottom Navigation Bar
+
+
+## 🚀 About Me
+I'm Sameer Mansoori, a skilled Flutter developer with more than one year of experience and a passion for open source. I'm eager to bring my Flutter expertise to your team at MisFits.
+
+My Flutter proficiency, open-source contributions, and problem-solving skills make me an asset for your projects. I'm enthusiastic about the innovation and excellence I see in your company.
+
+
+Looking forward to your response.
+
+Best regards,
+Sameer Mansoori
+
++919616373247
+CV- https://drive.google.com/file/d/1CLP_DwoB42o7fawON1KTHub4sSqfVKGQ/view
