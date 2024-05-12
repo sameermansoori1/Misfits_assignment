@@ -6,7 +6,6 @@ class CommonAssets {
 
   static const String baseURL = 'https://apiuat.reeroute.in';
 
-  static const String logo = 'assets/common/thilllalogo.png';
   static const String splash = 'assets/splash/splash.png';
   static const String group = 'assets/common/group1.png';
   static const String star = 'assets/common/star.png';
@@ -18,7 +17,8 @@ class CommonAssets {
   static const String github = 'assets/common/github.svg';
   static const String email = 'assets/common/email.svg';
   static const String contact = 'assets/common/contact.svg';
-  static const String source = 'assets/common/source.png';
+  static const String source1 = 'assets/common/source.png';
+  static const String logo = 'assets/common/logo.png';
 
 
 

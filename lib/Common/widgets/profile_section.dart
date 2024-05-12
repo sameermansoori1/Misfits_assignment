@@ -38,28 +38,31 @@ class ProfileSection extends StatelessWidget {
               ),
             ),
           ),
-          Column(
-            crossAxisAlignment: CrossAxisAlignment.center,
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: [
-              Text(
-                "98",
-                style: TextStyle(
-                    fontFamily: AppThemes.font1,
-                    fontSize: 28,
-                    fontWeight: FontWeight.w400,
-                    color: AppThemes.white),
+          Padding(
+            padding: const EdgeInsets.only(top: 7.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.center,
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                Text(
+                  "98",
+                  style: TextStyle(
+                      fontFamily: AppThemes.font1,
+                      fontSize: 28,
+                      fontWeight: FontWeight.w400,
+                      color: AppThemes.white),
 
-              ),
-              const SizedBox(height: 5,),
-              Text(
-                "Total members",
-                style: TextStyle(
-                    fontFamily: AppThemes.font1,
-                    fontSize: 12,
-                    fontWeight: FontWeight.w400,
-                    color: AppThemes.white),)
-            ],
+                ),
+
+                Text(
+                  "Total members",
+                  style: TextStyle(
+                      fontFamily: AppThemes.font1,
+                      fontSize: 12,
+                      fontWeight: FontWeight.w400,
+                      color: AppThemes.white),)
+              ],
+            ),
           ),
           Column(
             children: [
